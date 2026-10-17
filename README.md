@@ -1,7 +1,7 @@
 # SQLiteExampleApp
 
 Android application demonstrating local data persistence using SQLite
-with full CRUD (Create, Read, Update, Delete) functionality.
+with full CRUD (Create, Read, Update, Delete) functionality
 
 ## Project Overview
 This project showcases working with a local SQLite database in an Android application.
